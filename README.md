@@ -1,8 +1,4 @@
 ### Hi there I'm Diana 👋
-
-<!--
-**DianaED/DianaED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
@@ -14,4 +10,9 @@ Here are some ideas to get you started:
 
 *** Find me here***
 [link](https://https://twitter.com/DianaDowns28)
+
+<!--
+**DianaED/DianaED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
