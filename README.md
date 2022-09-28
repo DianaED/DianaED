@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about any cool idea you want to create
 
 
-*** Find me here***
-[link](https://https://twitter.com/DianaDowns28)
+***Find me here***
+[link](https://https://twitter.com/DianaDowns28) My Twitter account
 
 <!--
 **DianaED/DianaED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 -->
