@@ -1,5 +1,4 @@
 ### Hi there I'm Diana 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Javascript and React
