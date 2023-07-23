@@ -1,9 +1,6 @@
 ### Hi there I'm Diana 👋
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript, Python and ReactJS
-- 💬 Ask me about any cool idea you want to create
-
 
 ***Find me here***
 
